@@ -36,7 +36,5 @@ Hi, I'm **Amr Khaled**, an 18-year-old Computer Science student from Egypt. I'm 
 
 ## Let's Connect!
 
-Feel free to check out my other projects or contact me for collaborations!
-
 - **Email**: i3mr01@outlook.com
 - **LinkedIn**: https://www.linkedin.com/in/i3mr01/
