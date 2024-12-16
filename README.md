@@ -20,9 +20,9 @@ Hi, I'm **Amr Khaled**, an 18-year-old Computer Science student from Egypt. I'm 
    - Java  
    - Python  
    - JavaScript
-   - c++
-   - c
-   - c#
+   - C++
+   - C
+   - C#
    - HTML
 - **Tools & Technologies**:  
    - Android Development  
