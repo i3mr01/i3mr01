@@ -1,6 +1,6 @@
 # Welcome to my GitHub Page
 
-Hi, I'm **Amr Khaled**, an 18-year-old Computer Science student from Egypt. I'm passionate about technology, coding, and developing meaningful solutions to improve everyday life.
+Hi, I'm **Amr Khaled**, an 18-year-old Computer Science student from Egypt. passionate about technology, coding, and developing meaningful solutions to improve everyday life.
 
 ## About Me
 
@@ -17,13 +17,11 @@ Hi, I'm **Amr Khaled**, an 18-year-old Computer Science student from Egypt. I'm 
 ## My Skills
 
 - **Programming Languages**:  
-   - Java  
-   - Python  
-   - JavaScript
-   - C++
-   - C
-   - C#
+   - Python
    - HTML
+   - JavaScript
+   - CSS
+   - C++
 - **Tools & Technologies**:  
    - Android Development  
    - HTML/CSS  
