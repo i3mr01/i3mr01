@@ -1,6 +1,6 @@
 # Welcome to my GitHub Page
 
-Hi, I'm **Amr**, an 18-year-old Computer Science student from Egypt. passionate about technology, coding, and developing meaningful solutions to improve everyday life.
+Hi, I'm **Amr**, an 18-year-old Computer Science student from Egypt. passionate about technology, coding, and developing.
 
 ## About Me
 
@@ -12,7 +12,7 @@ Hi, I'm **Amr**, an 18-year-old Computer Science student from Egypt. passionate 
    - Photo Editing  
    - Social Media Management  
    - IT & Computer Systems  
-   - Drawing and Creativity  
+   - Drawing
 
 ## My Skills
 
@@ -25,7 +25,6 @@ Hi, I'm **Amr**, an 18-year-old Computer Science student from Egypt. passionate 
 - **Tools & Technologies**:  
    - Android Development  
    - HTML/CSS  
-   - Git & GitHub  
    - Photoshop, Premiere Pro  
 - **Interests**:  
    - Drawing  
