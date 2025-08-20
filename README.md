@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:i3mr01@proton.me"><img src="https://img.shields.io/badge/Email-i3mr01%40proton.me-informational?logo=gmail"></a>
+  <a href="mailto:i3mr01dev@gmail.com"><img src="https://img.shields.io/badge/Email-i3mr01%40proton.me-informational?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/i3mr01"><img src="https://img.shields.io/badge/LinkedIn-Amr%20Khaled-blue?logo=linkedin"></a>
   <a href="https://x.com/i3mr01"><img src="https://img.shields.io/badge/Follow-@i3mr01-black?logo=x"></a>
   <img src="https://komarev.com/ghpvc/?username=i3mr01&label=Profile%20views&color=brightgreen" />
@@ -55,7 +55,7 @@
 
 ### 📫 Reach me
 - My website: **www.i3mr01.space**
-- Email: **i3mr01@outlook.com**  
+- Email: **i3mr01dev@gmail.com**  
 - Instagram/Twitter: **@i3mr01**
 
 ---
