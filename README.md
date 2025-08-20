@@ -59,4 +59,4 @@
 - Instagram/Twitter: **@i3mr01**
 
 ---
-<sub>“Ship it, then make it prettier.”</sub>
+<sub>“Music + Code = Me.”</sub>
