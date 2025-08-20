@@ -1,6 +1,6 @@
 
 <!-- Profile README for @i3mr01 -->
-<h1 align="center">Hey, I'm Amr 👋</h1>
+<h1 align="center">Hey, Amr | @i3mr01 👋</h1>
 <p align="center">
   CS student • Android & Web dev • UI/UX
 </p>
