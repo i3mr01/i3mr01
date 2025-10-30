@@ -16,13 +16,12 @@
 - 🏫 Computer Science student at **Nile University**, passionate about crafting modern web and mobile experiences.
 - 🚀 Building full-stack applications with **React.js, Next.js, and Node.js/Express**.
 - 📱 Developing native Android apps using **Kotlin, Android Studio, and Jetpack** (Room, Retrofit).
-- 🎨 Designing pixel-perfect, high-performance UIs with **Figma**.
+- 🎨 Designing pixel-perfect UIs with **Figma**.
 - 🎧 Creative coder with a background in music production and multimedia.
 
 ### 🚀 Notable Projects
 - **VITA - AI Healthcare App**
-  - Led UI/UX and frontend for an AI healthcare web app.
-  - 🏆 **Awarded "Top Student Project"** (Galala University, 2025).
+  - Led the development for an AI healthcare web app.
 - **Linktree-Style Web App**
   - Personal links platform built with **Next.js, Prisma, and Supabase**.
   - Features auth, user dashboards, profile customization, and PWA support.
