@@ -1,37 +1,41 @@
+
+<!-- Profile README for @i3mr01 -->
 <h1 align="center">Hey, Amr | @i3mr01 👋</h1>
 <p align="center">
-  Computer Science Student • Full-Stack Developer • UI/UX Designer
+Computer Science Student • Full-Stack Developer • UI/UX Designer
 </p>
 
 <p align="center">
-  <a href="https://www.i3mr01.space"><img src="https://img.shields.io/badge/Portfolio-i3mr01.space-brightgreen?logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/i3mr01"><img src="https://img.shields.io/badge/LinkedIn-Amr%20Ahmed-blue?logo=linkedin"></a>
-  <a href="mailto:amrkhaledahmed.contact@gmail.com"><img src="https://img.shields.io/badge/Email-amrkhaledahmed.contact@gmail.com-informational?logo=gmail"></a>
-  <a href="https://x.com/i3mr01"><img src="https://img.shields.io/badge/Follow-@i3mr01-black?logo=x"></a>
+  <a href="https://www.i3mr01.space"><img src="https://img.shields.io/badge/Portfolio-i3mr01.space-brightgreen?logo=googlechrome&logoColor=white"></a>
+  <a href="mailto:i3mr01dev@gmail.com"><img src="https://img.shields.io/badge/Email-i3mr01dev%40gmail.com-informational?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/i3mr01"><img src="https://img.shields.io/badge/LinkedIn-Amr%20Khaled-blue?logo=linkedin"></a>
+  <img src="https://komarev.com/ghpvc/?username=i3mr01&label=Profile%20views&color=brightgreen" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🏫 Computer Science student at **Nile University**, passionate about crafting modern web and mobile experiences.
-- 🚀 Building full-stack applications with **React.js, Next.js, and Node.js/Express**.
+### 🧑‍💻 About me
+- [cite_start]🏫 Computer Science student at **Nile University** [cite: 16][cite_start], passionate about crafting modern web and mobile experiences[cite: 4].
+- 🚀 Building full-stack applications.
 - 📱 Developing native Android apps using **Kotlin, Android Studio, and Jetpack** (Room, Retrofit).
+- 🕸️ Web stuff sometimes (Node/Express, React basics)  
 - 🎨 Designing pixel-perfect UIs with **Figma**.
 - 🎧 Creative coder with a background in music production and multimedia.
-
-### 🚀 Notable Projects
+  
+### 🚀 Notable projects
 - **VITA - AI Healthcare App**
-  - Led the development for an AI healthcare web app.
-- **Linktree-Style Web App**
-  - Personal links platform built with **Next.js, Prisma, and Supabase**.
-  - Features auth, user dashboards, profile customization, and PWA support.
+  - Led the deveopment for an AI healthcare web app.
+- **Linktree-Style Web App (`new-linktree2`)**
+  - [cite_start]Personal links platform built with **Next.js, Prisma, and Supabase**[cite: 94].
+  - [cite_start]Features auth, user dashboards, profile customization, and PWA support [cite: 95-96].
 - **Clip01 - Video Downloader**
-  - Full-stack (React + Node.js) video downloader site.
-  - Reached **200+ active users** in its first month organically.
+  - [cite_start]Full-stack (React + Node.js) video downloader site[cite: 98].
+- **MusicRP**
+  - Advanced Discord Rich Presence for Apple Music, built with **C#**.
 - **i3 Chat (P2P)**
-  - Android P2P chat app using **Wi-Fi Direct & Bluetooth** (no internet required).
+  - [cite_start]Android P2P chat app using **Wi-Fi Direct & Bluetooth** (no internet required)[cite: 110, 111].
 - **PDF Editor (Android)**
-  - A work-in-progress Android app in **Kotlin** for viewing, annotating, and editing PDFs.
+  - [cite_start]A work-in-progress Android app in **Kotlin** for viewing, annotating, and editing PDFs[cite: 106, 109].
 
 ### 🛠 Tech Stack
 <p>
@@ -44,31 +48,32 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+Container   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+    <img src="httpsScreenreader-text "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i3mr01&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i3mr01&layout=compact&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=i3mr01&show_icons=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i3mr01&layout=compact&theme=transparent" height="150" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=i3mr01&theme=transparent" height="150" />
+  <img src="https://streak-stats.demolab.com?user=i3mr01&theme=transparent" height="150" />
 </p>
 
-### 📝 Current Goals
+### 📝 Recent goals
 - ✅ Finish MVP for **i3 Chat**
 - 🔧 Polish **Clip01** and deploy
 - 🧩 Publish first **PDF editor** alpha
 
-### 📫 Reach Me
-- 🌐 **Portfolio:** [www.i3mr01.space](https://www.i3mr01.space)
-- 📧 **Email:** [amrkhaledahmed.contact@gmail.com](mailto:amrkhaledahmed.contact@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/i3mr01](https://linkedin.com/in/i3mr01)
+### 📫 Reach me
+- My website: **www.i3mr01.space**
+- Email: **i3mr01dev@gmail.com**  
+- Instagram/Twitter: **@i3mr01**
 
 ---
 <sub>“Music + Code = Me.”</sub>
