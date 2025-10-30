@@ -17,7 +17,7 @@ Computer Science Student • Full-Stack Developer • UI/UX Designer
 ### 🧑‍💻 About me
 - 🏫 Computer Science student at **Nile University**, passionate about crafting modern web and mobile experiences.
 - 🚀 Building full-stack applications.
-- 📱 Developing native Android apps using **Kotlin, Android Studio, and Jetpack** (Room, Retrofit).
+- 📱 Developing native Android apps using **Kotlin, Android Studio, and Jetpack**.
 - 🕸️ Web stuff sometimes (Node/Express, React basics)  
 - 🎨 Designing pixel-perfect UIs with **Figma**.
 - 🎧 Creative coder with a background in music production and multimedia.
