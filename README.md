@@ -1,7 +1,8 @@
 <!-- Profile README for @i3mr01 -->
 <h1 align="center">Hey, I'm Amr | @i3mr01 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;UI%2FUX+Designer;Music+Producer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Developer;UI%2FUX+Designer;Music+Producer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,33 +14,51 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Time-Night%20Owl%20🌙-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Coffee-Powered☕-brown?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-Lover🐧-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Music-Addict🎧-blue?style=for-the-badge">
+</p>
+
+---
+
 ### 🧑‍💻 About Me
 - 🏫 Computer Science student at **Nile University**, passionate about crafting modern web and mobile experiences.  
-- 🚀 Building full-stack applications with focus on clean architecture and great UX.  
+- 🚀 Building full-stack applications with focus on clean architecture and smooth UX.  
 - 📱 Developing native Android apps using **Kotlin**, **Android Studio**, and **Jetpack**.  
-- 🕸️ Exploring web development with **React**, **Next.js**, and **Node.js/Express**.  
+- 🕸️ Exploring **React**, **Next.js**, **Node.js**, and **Supabase**.  
 - 🎨 Designing pixel-perfect UIs with **Figma**.  
 - 🎧 Creative coder with a background in **music production** and multimedia.  
+
+---
+
+### 💻 My Setup
+- 💻 **Laptop:** Legion 5 Pro  
+- ⚙️ **OS:** Windows 11 + WSL2 (Ubuntu)  
+- 🧰 **Editor:** VS Code / Android Studio / Figma  
+- 🎧 **Gear:** Audio-Technica M40x + Focusrite Solo  
+- ☕ **Fav Stack:** Next.js + Supabase + Tailwind  
 
 ---
 
 ### 🚀 Notable Projects
 
 - 🏥 **VITA – AI Healthcare App**  
-  Led the development for an AI-powered healthcare web app.  
+  Led the development of an AI-powered healthcare web app.  
 
 - 🔗 **Linktree-Style Web App (`new-linktree2`)**  
   Personal links platform built with **Next.js**, **Prisma**, and **Supabase**.  
-  Includes authentication, dashboards, profile customization, and PWA support.  
+  Includes auth, dashboards, profile customization, and PWA support.  
 
 - 🎥 **Clip01 – Video Downloader**  
-  Full-stack **React + Node.js** web app for downloading videos easily.  
+  Full-stack **React + Node.js** app for easy video downloading.  
 
 - 🎵 **MusicRP**  
   Advanced **Discord Rich Presence** for **Apple Music**, built in **C#**.  
 
 - 💬 **i3 Chat (P2P)**  
-  Android chat app using **Wi-Fi Direct & Bluetooth**, works fully offline.  
+  Android chat app using **Wi-Fi Direct & Bluetooth**, no internet required.  
 
 - 📄 **PDF Editor (Android)**  
   Work-in-progress app for viewing, annotating, and editing PDFs with **Kotlin**.  
@@ -67,21 +86,42 @@
 
 ---
 
+### 🧠 Currently Learning
+- ⚙️ **Docker & CI/CD pipelines**  
+- ☁️ **Next.js Server Actions**  
+- 🤖 **AI + Python integrations**  
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=i3mr01&show_icons=true&theme=transparent" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i3mr01&layout=compact&theme=transparent" height="150" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=i3mr01&theme=transparent" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=i3mr01&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
 ---
 
-### 🎯 Current Goals
-- ✅ Finish MVP for **i3 Chat**  
-- 🧩 Publish first **PDF Editor Alpha**  
-- 🧠 Currently improving **MusicRP UI**  
+### 🪩 My Vibe
+> “Simple code, complex dreams.”
+
+🎶 Currently vibing to: **The Weeknd**, **Kenshi Yonezu**, or random **Lo-Fi**  
+🎮 Gaming when I’m not coding — usually **Valorant** or chill games  
+🌙 Night coder, caffeine enjoyer, and serial perfectionist  
+
+---
+
+### ✨ Words I Live By
+> “Talk is cheap. Show me the code.” — Linus Torvalds  
+> “Music + Code = Me.” — i3mr01  
+> “Build. Break. Repeat.” — Unknown  
 
 ---
 
@@ -92,4 +132,15 @@
 
 ---
 
-<sub>🎶 “Music + Code = Me.”</sub>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i3mr01&theme=react-dark" />
+</p>
+
+---
+
+![snake gif](https://github.com/i3mr01/i3mr01/blob/output/github-contribution-grid-snake.svg)
+
+<details>
+<summary>💬 Secret Message</summary>
+<p>You're a real one for scrolling all the way down here 😎</p>
+</details>
