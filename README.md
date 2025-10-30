@@ -1,7 +1,7 @@
 <!-- Profile README for @i3mr01 -->
 <h1 align="center">Hey, I'm Amr | @i3mr01 👋</h1>
 <p align="center">
-  Computer Science Student • Full-Stack Developer • UI/UX Designer
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;UI%2FUX+Designer;Music+Producer" alt="Typing SVG" />
 </p>
 
 <p align="center">
