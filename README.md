@@ -24,7 +24,7 @@ Computer Science Student • Full-Stack Developer • UI/UX Designer
   
 ### 🚀 Notable projects
 - **VITA - AI Healthcare App**
-  - Led the deveopment for an AI healthcare web app.
+  - Led the development for an AI healthcare web app.
 - **Linktree-Style Web App (`new-linktree2`)**
   -Personal links platform built with **Next.js, Prisma, and Supabase**.
   - Features auth, user dashboards, profile customization, and PWA support.
