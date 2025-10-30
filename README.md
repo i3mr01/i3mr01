@@ -51,7 +51,7 @@ Computer Science Student • Full-Stack Developer • UI/UX Designer
 Container   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-    <img src="httpsScreenreader-text "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white" />
 </p>
