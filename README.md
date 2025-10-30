@@ -15,7 +15,7 @@ Computer Science Student • Full-Stack Developer • UI/UX Designer
 ---
 
 ### 🧑‍💻 About me
-- [cite_start]🏫 Computer Science student at **Nile University** [cite: 16][cite_start], passionate about crafting modern web and mobile experiences[cite: 4].
+- 🏫 Computer Science student at **Nile University**, passionate about crafting modern web and mobile experiences.
 - 🚀 Building full-stack applications.
 - 📱 Developing native Android apps using **Kotlin, Android Studio, and Jetpack** (Room, Retrofit).
 - 🕸️ Web stuff sometimes (Node/Express, React basics)  
@@ -26,16 +26,16 @@ Computer Science Student • Full-Stack Developer • UI/UX Designer
 - **VITA - AI Healthcare App**
   - Led the deveopment for an AI healthcare web app.
 - **Linktree-Style Web App (`new-linktree2`)**
-  - [cite_start]Personal links platform built with **Next.js, Prisma, and Supabase**[cite: 94].
-  - [cite_start]Features auth, user dashboards, profile customization, and PWA support [cite: 95-96].
+  -Personal links platform built with **Next.js, Prisma, and Supabase**.
+  - Features auth, user dashboards, profile customization, and PWA support.
 - **Clip01 - Video Downloader**
-  - [cite_start]Full-stack (React + Node.js) video downloader site[cite: 98].
+  -Full-stack (React + Node.js) video downloader site.
 - **MusicRP**
   - Advanced Discord Rich Presence for Apple Music, built with **C#**.
 - **i3 Chat (P2P)**
-  - [cite_start]Android P2P chat app using **Wi-Fi Direct & Bluetooth** (no internet required)[cite: 110, 111].
+  - Android P2P chat app using **Wi-Fi Direct & Bluetooth** (no internet required).
 - **PDF Editor (Android)**
-  - [cite_start]A work-in-progress Android app in **Kotlin** for viewing, annotating, and editing PDFs[cite: 106, 109].
+  - A work-in-progress Android app in **Kotlin** for viewing, annotating, and editing PDFs.
 
 ### 🛠 Tech Stack
 <p>
@@ -67,7 +67,6 @@ Container   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&lo
 
 ### 📝 Recent goals
 - ✅ Finish MVP for **i3 Chat**
-- 🔧 Polish **Clip01** and deploy
 - 🧩 Publish first **PDF editor** alpha
 
 ### 📫 Reach me
