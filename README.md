@@ -1,5 +1,7 @@
 <!-- Profile README for @i3mr01 -->
-<h1 align="center">Hey, I'm Amr | @i3mr01 👋</h1>
+<h1 align="center">Hey, I'm Amr | @i3mr01 👋
+<img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/demo-header.gif?raw=true" width="100%">
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;UI%2FUX+Designer;Music+Producer" alt="Typing SVG" />
 </p>
