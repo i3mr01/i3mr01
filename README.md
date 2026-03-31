@@ -31,13 +31,8 @@ My work spans **full-stack web**, **Windows desktop apps**, and **developer tool
 ---
 
 ### Featured Projects
-- **EchoWave** — Windows media downloader / converter  
-- **AirPulse** — Phone as a Windows remote & trackpad  
-- **MusicRP** — Apple Music Discord Rich Presence  
-- **VITA** — AI medical document analysis  
-- **Linkly** — Link-in-bio platform (WIP)
-
-More → https://www.amrkhaled.dev/projects
+---------
+More → https://www.amrkhaled.dev
 
 ---
 
